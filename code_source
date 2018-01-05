@@ -1,0 +1,42 @@
+programme main;
+
+const ab756 = 456 ;
+          c456 = 123;
+          b95a = Vrai;
+          c456 = Faux
+
+var ab5,bc6,hgf,mahfoud,bc7,ab9:ent;
+
+    bc7,ab9,hgf,mll:Bool;
+    
+    bc6,ab5,cd5:Bool 
+
+debut 
+       
+
+    ab5 := bc6 + 568;
+    
+    bc6 :=454  + 123;
+    
+    bc7 := ab5 + bc6;
+    
+    si bc7 alors
+    
+       ab5 := bc6 + 5;
+      
+      si bc6 alors 
+      
+        bc5 := ab7 + 2
+
+      fsi
+    
+    sinon
+      
+       bc6 := bc7 + 1;
+      
+      si bc6 alors 
+      
+        bc7 := ab5 + 2     
+      fsi
+    fsi
+fin
